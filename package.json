@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "test:watch": "yarn test --watchAll",
-    "test": "NODE_ENV=test && ts-node ./node_modules/.bin/jest --passWithNoTests --forceExit --detectOpenHandles"
+    "test": "NODE_ENV=test && ts-node ./node_modules/.bin/jest --colors --passWithNoTests --forceExit --detectOpenHandles"
   },
   "devDependencies": {
     "@types/jest": "^27.0.3",

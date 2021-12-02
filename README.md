@@ -5,3 +5,9 @@ The purpose of this repo is to practice algorithm and unit test thanks to [adven
 # Stack
 
 you will use typescript with jest!
+
+# How to run it
+
+```
+yarn && yarn test
+```
